@@ -8,7 +8,7 @@ Tutorial
 
 Question
 
-[matplotlib.pyplot의 pyplot은 무엇인가?](visualization/'[Matplotlib][question] What is the '\''pyplot'\'' at matplotlib.pyplot.ipynb')
+[matplotlib.pyplot의 pyplot은 무엇인가?](visualization/Matplotlib_question_What_is_pyplot.ipynb)
 
 ## machine learning
 
