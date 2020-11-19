@@ -14,4 +14,12 @@
 
 ## statistics
 
-[01. Histogram이란?](statistics/01_histogram.md)
+[01. 히스토그램](statistics/01_histogram.md)
+
+[02. 분포](statistics/02_what_is_a_statistical_distribution.md)
+
+[03. 정규분포](statistics/03_normal_distribution.md)
+
+[04. 모수](statistics/04_population_parameters.md)
+
+[06. 모델](statistics/06_what_is_a_statistical_model.md)
