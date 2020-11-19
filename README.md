@@ -2,7 +2,7 @@
 
 ## python
 
-## visualizatin
+## visualization
 
 Tutorial
 
