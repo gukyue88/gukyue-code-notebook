@@ -1,6 +1,6 @@
 # 분포란?
 
-[설명 영상 링크](https://www.youtube.com/watch?v=oI3hZJqXJuc&feature=youtu.be)
+[![Watch the video](https://img.youtube.com/vi/oI3hZJqXJuc/hqdefault.jpg)](https://youtu.be/oI3hZJqXJuc)
 
 ## 동영상 내용 정리
 
