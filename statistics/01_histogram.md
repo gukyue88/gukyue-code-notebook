@@ -1,6 +1,6 @@
 # 히스토그램이란?
 
-[![Watch the video](https://img.youtube.com/vi/qBigTkBLU6g/maxresdefault.jpg)](https://youtu.be/qBigTkBLU6g)
+[![Watch the video](https://img.youtube.com/vi/qBigTkBLU6g/hqdefault.jpg)](https://youtu.be/qBigTkBLU6g)
 
 ## 동영상 내용 정리
 
