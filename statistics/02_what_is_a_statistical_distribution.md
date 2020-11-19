@@ -1,5 +1,7 @@
 # 분포란?
 
+동영상을 시청하시려면 아래 그림을 클릭하세요
+
 [![Watch the video](https://img.youtube.com/vi/oI3hZJqXJuc/hqdefault.jpg)](https://youtu.be/oI3hZJqXJuc)
 
 ## 동영상 내용 정리

@@ -1,6 +1,8 @@
 # 정규분포
 
-[설명 영상 링크](https://www.youtube.com/watch?v=rzFX5NWojp0&feature=youtu.be)
+동영상을 시청하시려면 아래 그림을 클릭하세요
+
+[![Watch the video](https://img.youtube.com/vi/rzFX5NWojp0/hqdefault.jpg)](https://youtu.be/rzFX5NWojp0)
 
 ## 동영상 내용 정리
 
