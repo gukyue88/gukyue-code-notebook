@@ -1,5 +1,7 @@
 # 히스토그램이란?
 
+동영상을 시청하시려면 아래 그림을 클릭하세요
+
 [![Watch the video](https://img.youtube.com/vi/qBigTkBLU6g/hqdefault.jpg)](https://youtu.be/qBigTkBLU6g)
 
 ## 동영상 내용 정리
