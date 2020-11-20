@@ -8,7 +8,7 @@ PyCaret의 모든 모듈은 panda Dataframe과 작동할 수 있다. 아래는 �
 
 ## panda를 사용하여 Data 불러오기
 
-```
+```python
 import pandas as pd
 
 data = pd.read_csv('file.csv')
@@ -18,7 +18,7 @@ data = pd.read_csv('file.csv')
 
 PyCaret은 테스트를 위한 오픈소스 데이터셋 저장소를 온라인상으로 제공합니다. 이것들은 PyCaret의 github에서 온라인 제공되며, **pycaret.datasets** 모듈을 통해 바로 불러올 수 있습니다.
 
-```
+```python
 from pycaret.datasets import get_data
 data = get_data('juice')
 ```
