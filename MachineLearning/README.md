@@ -1,4 +1,4 @@
-# Gukyue's ML Study Note
+# 머신러닝
 
 ## StatQuest
 
