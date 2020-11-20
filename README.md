@@ -1,5 +1,4 @@
 # Gukyue's ML Study Note
-
 ## python
 
 ## visualization
@@ -23,14 +22,11 @@
 
 ## feature engineering
 
-## statistics
+## StatQuest
 
-[01. 히스토그램](statistics/01_histogram.md)
-
-[02. 분포](statistics/02_what_is_a_statistical_distribution.md)
-
-[03. 정규분포](statistics/03_normal_distribution.md)
-
-[04. 모수](statistics/04_population_parameters.md)
-
-[06. 모델](statistics/06_what_is_a_statistical_model.md)
+- statistic
+	- [01. 히스토그램](StatQuest/statistics/01_histogram.md)
+	- [02. 분포](StatQuest/statistics/02_what_is_a_statistical_distribution.md)
+	- [03. 정규분포](StatQuest/statistics/03_normal_distribution.md)
+	- [04. 모수](StatQuest/statistics/04_population_parameters.md)
+	- [06. 모델](StatQuest/statistics/06_what_is_a_statistical_model.md)
