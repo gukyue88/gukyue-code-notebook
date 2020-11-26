@@ -7,6 +7,7 @@
 	- [02. 분포](StatQuest/statistics/02_what_is_a_statistical_distribution.md)
 	- [03. 정규분포](StatQuest/statistics/03_normal_distribution.md)
 	- [04. 모수](StatQuest/statistics/04_population_parameters.md)
+	- [05. 평균,분산,표준편차](StatQuest/statistics/05_TheMeanVarianceAndStandardDeviation.md)
 	- [06. 모델](StatQuest/statistics/06_what_is_a_statistical_model.md)
 
 ## pycaret
