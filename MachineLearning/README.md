@@ -9,6 +9,7 @@
 	- [04. 모수](StatQuest/statistics/04_population_parameters.md)
 	- [05. 평균,분산,표준편차](StatQuest/statistics/05_TheMeanVarianceAndStandardDeviation.md)
 	- [06. 모델](StatQuest/statistics/06_what_is_a_statistical_model.md)
+	- [07. 표집분포](StatQuest/statistics/07_SamplingADistribution.md)
 
 ## pycaret
 
