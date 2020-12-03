@@ -11,6 +11,8 @@
 	- [06. 모델](StatQuest/statistics/06_what_is_a_statistical_model.md)
 	- [07. 표집분포](StatQuest/statistics/07_SamplingADistribution.md)
 	- [08. 가설검증과 귀무가설](StatQuest/statistics/08_HypothesisTestingAndTheNullHypothesis.md)
+	- [09. 대립가설:주요개념](StatQuest/statistics/09_AlternativeHypothesisMainIdea.md)
+	- [10. p-value : 개념과 해석 방법](StatQuest/statistics/10_pValue_WhatTheyAreAndHowToInterpretThem.md)
 
 ## pycaret
 
